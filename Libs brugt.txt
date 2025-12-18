@@ -1,0 +1,6 @@
+Libs brugt
+	IMGUI
+	IXWEBSOCKET
+	ONNXRUNTIME
+	OPENCV
+	
